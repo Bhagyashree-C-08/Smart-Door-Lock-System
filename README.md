@@ -42,3 +42,7 @@ Power up the system and follow the LCD instructions for setup and use.
 Integration with a mobile app for remote access.
 Cloud storage for user data backup.
 Advanced encryption for OTP and fingerprint data.
+
+![SMART-DOOR-LOCK](https://github.com/user-attachments/assets/c91c4eb5-6a1f-42e3-9fbe-c73125fdb2da)
+
+
